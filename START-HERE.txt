@@ -1,0 +1,8 @@
+Your GIF gallery is ready. The lore lives on!
+
+1. Unzip this folder.
+2. Open index.html to enjoy your gallery offline. Keep images/ and fonts/ beside it.
+3. For a public link, visit https://app.netlify.com/drop and drop the unzipped folder. Follow Netlify’s account and public visibility steps.
+4. You can also use Publish with GitHub in gif & giggles.
+
+Your GIFs, captions, design and fonts are included. Your editor draft saves on your device.

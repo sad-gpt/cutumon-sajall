@@ -1,0 +1,293 @@
+{
+  "format": "gif-and-giggles",
+  "version": 1,
+  "settings": {
+    "title": "cutumon",
+    "description": "",
+    "template": "collage",
+    "background": "#f6efdf",
+    "captions": true
+  },
+  "items": [
+    {
+      "id": "668b2522-c5bd-46cf-b207-7fbe16922592",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/01.png",
+      "extension": "png"
+    },
+    {
+      "id": "1c774d9a-7c15-45e7-b4a3-723aaa1f29f6",
+      "name": "WhatsApp Sticker 2026-10-15 at 12.49.45.webp",
+      "caption": "",
+      "path": "images/02.webp",
+      "extension": "webp"
+    },
+    {
+      "id": "b8fb64a5-2ec4-4e26-9b0a-b5949aaf928f",
+      "name": "d200f59a-b24f-408f-88c0-917a60f36a75.webp",
+      "caption": "",
+      "path": "images/03.webp",
+      "extension": "webp"
+    },
+    {
+      "id": "7b00f7d7-fe2a-40a1-94eb-e54b6ba61f83",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/04.png",
+      "extension": "png"
+    },
+    {
+      "id": "d76cea60-07ad-4ed9-9091-792204eb8912",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/05.png",
+      "extension": "png"
+    },
+    {
+      "id": "e2c9ccb1-cbf6-4641-9b27-72860700768c",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/06.png",
+      "extension": "png"
+    },
+    {
+      "id": "afb389ea-abdb-436f-892a-4b691855dfb2",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/07.png",
+      "extension": "png"
+    },
+    {
+      "id": "26c49ed8-24ab-4212-ace2-938c64f02057",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/08.png",
+      "extension": "png"
+    },
+    {
+      "id": "c0df3e18-155d-471d-8bdd-bd4d81c3b842",
+      "name": "WhatsApp Sticker 2026-10-15 at 12.18.34.webp",
+      "caption": "",
+      "path": "images/09.webp",
+      "extension": "webp"
+    },
+    {
+      "id": "5e838433-d13a-427d-ac96-bb0d6b491d12",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/10.png",
+      "extension": "png"
+    },
+    {
+      "id": "f2e0a0a6-9ae1-4bed-9bed-d4db6af5216c",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/11.png",
+      "extension": "png"
+    },
+    {
+      "id": "f14492aa-afab-4d67-bd39-40a1f8ef299d",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/12.png",
+      "extension": "png"
+    },
+    {
+      "id": "8411fbb3-f2bc-42ec-b97b-6daa2eeeb60e",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/13.png",
+      "extension": "png"
+    },
+    {
+      "id": "2ab61636-052b-49d0-b0c7-4074fd18c54e",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/14.png",
+      "extension": "png"
+    },
+    {
+      "id": "b796d493-3205-4780-8593-024d26670dd7",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/15.png",
+      "extension": "png"
+    },
+    {
+      "id": "49fc03d8-ea3d-4dbe-a9c9-c2315d393a08",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/16.png",
+      "extension": "png"
+    },
+    {
+      "id": "2b128c11-1e5d-40b0-ad8a-3f995a0857f3",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/17.png",
+      "extension": "png"
+    },
+    {
+      "id": "5b4e1bca-617d-48ad-a63e-1f99fe52fa90",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/18.png",
+      "extension": "png"
+    },
+    {
+      "id": "882c1f0e-b04c-41a8-9178-cc7a4bdf11d1",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/19.png",
+      "extension": "png"
+    },
+    {
+      "id": "ae5bfac8-52ef-40ca-94f6-feb9f7fdf493",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/20.png",
+      "extension": "png"
+    },
+    {
+      "id": "3cc0a800-e737-47fb-9d5e-85e73d761365",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/21.png",
+      "extension": "png"
+    },
+    {
+      "id": "ad4745ab-ff4f-451e-8d76-663f6bc311da",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/22.png",
+      "extension": "png"
+    },
+    {
+      "id": "4267351a-e552-4154-beb9-45ff0f58b521",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/23.png",
+      "extension": "png"
+    },
+    {
+      "id": "a32a09d9-6af2-4692-88ce-e115be027949",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/24.png",
+      "extension": "png"
+    },
+    {
+      "id": "dd5371f8-6284-498c-9219-8b69fdf93b84",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/25.png",
+      "extension": "png"
+    },
+    {
+      "id": "7769b3bb-8553-4da3-b71b-ba877181532d",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/26.png",
+      "extension": "png"
+    },
+    {
+      "id": "2d39df76-52f6-484f-9d9b-8c8a64e94714",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/27.png",
+      "extension": "png"
+    },
+    {
+      "id": "cb7278a0-43db-4914-a46b-5267b9fe8d81",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/28.png",
+      "extension": "png"
+    },
+    {
+      "id": "89bc0990-d3b7-494d-89ce-a1ef58da8602",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/29.png",
+      "extension": "png"
+    },
+    {
+      "id": "26241256-0f29-4ef9-945d-bb8d76974253",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/30.png",
+      "extension": "png"
+    },
+    {
+      "id": "4a716548-d97a-49f5-9502-9d3ff0d6fa0c",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/31.png",
+      "extension": "png"
+    },
+    {
+      "id": "4456ea18-6544-4617-a559-d1af215403af",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/32.png",
+      "extension": "png"
+    },
+    {
+      "id": "f21ed786-dec9-48cb-a3d2-6eefeb56a530",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/33.png",
+      "extension": "png"
+    },
+    {
+      "id": "a9ef1fba-148d-49e6-a177-8be3aee2b5eb",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/34.png",
+      "extension": "png"
+    },
+    {
+      "id": "4cf086bf-a7b9-4de7-9baf-532569a074ee",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/35.png",
+      "extension": "png"
+    },
+    {
+      "id": "ec302f98-1741-4bc1-bc8b-8d8296c4d0ee",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/36.png",
+      "extension": "png"
+    },
+    {
+      "id": "c186d2d5-80f0-40cd-aaa3-8a8f2009fba4",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/37.png",
+      "extension": "png"
+    },
+    {
+      "id": "b89eb172-8930-4d50-bc35-1b159e9121a6",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/38.png",
+      "extension": "png"
+    },
+    {
+      "id": "e53abbf5-f991-4331-8639-7856bbc9fe4a",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/39.png",
+      "extension": "png"
+    },
+    {
+      "id": "bb984c24-c08e-45a2-a571-83085f3875ba",
+      "name": "image.png",
+      "caption": "",
+      "path": "images/40.png",
+      "extension": "png"
+    }
+  ]
+}
